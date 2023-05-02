@@ -25,7 +25,7 @@ print("welcome to the treasure island\n your mission is to find the treasure")
 choice1=input("where do you want to head left or right?").lower()
 if choice1=="left":
     print("you have reached the lake\n Now do you want to swim or wait? ")
-    choice2=input("").lower
+    choice2=input("").lower()
     if choice2=="wait":
         print("a door appears\n which door you want to go in")
         choice3=input("red or yellow or blue? ").lower()
